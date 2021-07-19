@@ -4,7 +4,7 @@ First, Make sure you have installed [Node Js](https://nodejs.org/en/) to be able
 ## 1. Clone
 Clone this project into your local environnement using  
     ```
-    git clone https://github.com/ElWask/ig-test.git
+    git clone https://github.com/ElWask/react-starter.git
      ```  
 or downloading the zip folder 
 

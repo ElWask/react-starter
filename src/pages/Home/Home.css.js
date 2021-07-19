@@ -7,20 +7,5 @@ const useStyles = makeStyles(() => ({
     alignItems: "center",
     justifyContent: "center",
   },
-  mainCard: {
-    width: "500px",
-    maxWidth: "80vw",
-  },
-  title: {
-    fontSize: 23,
-  },
-  pos: {
-    marginBottom: 12,
-  },
-  line : {
-    display:"flex",
-    justifyContent :"space-between",
-    width:"80vw",
-  }
 }));
 export default useStyles;
