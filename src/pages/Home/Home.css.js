@@ -17,5 +17,10 @@ const useStyles = makeStyles(() => ({
   pos: {
     marginBottom: 12,
   },
+  line : {
+    display:"flex",
+    justifyContent :"space-between",
+    width:"80vw",
+  }
 }));
 export default useStyles;
